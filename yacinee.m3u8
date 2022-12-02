@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-START:TIME-OFFSET=0.01
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:7
+#EXTINF:7.000,
+http://c1.ab-cdn.com/ajax/libs/jquery/3.6.0/jquery.min.js?test/1670015570604
+#EXTINF:7.000,
+http://c1.ab-cdn.com/ajax/libs/jquery/3.6.0/jquery.min.js?test/1670015577608
+#EXTINF:7.000,
+http://c1.ab-cdn.com/ajax/libs/jquery/3.6.0/jquery.min.js?test/1670015584614
+#EXTINF:7.000,
+http://c1.ab-cdn.com/ajax/libs/jquery/3.6.0/jquery.min.js?test/1670015591613
+#EXTINF:7.000,
+http://c1.ab-cdn.com/ajax/libs/jquery/3.6.0/jquery.min.js?test/1670015598613
